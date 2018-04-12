@@ -1,0 +1,8 @@
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\bin\Debug\Run.exe
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\bin\Debug\Run.pdb
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\obj\Debug\Run.csprojResolveAssemblyReference.cache
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\obj\Debug\Run.FrmRun.resources
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\obj\Debug\Run.Properties.Resources.resources
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\obj\Debug\Run.csproj.GenerateResource.Cache
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\obj\Debug\Run.exe
+C:\Users\ericc.gaxiola\Desktop\Ericc\Run\obj\Debug\Run.pdb
